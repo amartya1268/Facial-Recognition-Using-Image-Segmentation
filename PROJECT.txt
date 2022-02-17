@@ -1,0 +1,19 @@
+The scientific method used to convert an image into digital form and perform some operations on it,
+ in order to get an enhanced, improved and detailed image or to extract some useful information from it 
+is called “Image Processing”.This process is a type of signal dispensation in which input is image, 
+like video frame or photograph and output may be image or characteristics associated with that image. 
+Usually Image Processing system includes treating images as two dimensional signals while applying already 
+set signal processing methods to them.It is among rapidly growing technologies today, with its applications 
+in various aspects of a business as well as science and research.Image Processing forms core research area
+ within engineering and computer science disciplines too.
+Human activity is a major concern in a wide variety of applications such as video surveillance, 
+human computer interface, face recognition and face database management. Detecting faces is a crucial step 
+in these identification applications. Most face recognition algorithms assume that the face location is known. 
+Similarly, face-tracking algorithms often assume the initial face location is known. Note that face detection 
+can be viewed as a two-class (face vs. non-face) classification problem. Therefore, some techniques developed 
+for face recognition have also been used to detect faces, but they are very computationally demanding and cannot 
+handle large variations in face images. These approaches utilize techniques such as principle component analysis, 
+neural network, machine leaming, information theory, geometrical modeling, (deformable) template matching, Hough 
+transform, motion extraction, and color analysis. The neural network-based approaches and view-based approaches
+ require a large number of face and non-face training samples, and are designed primarily to locate frontal faces
+ in gayscale images. 
